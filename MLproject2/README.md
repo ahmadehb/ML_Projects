@@ -27,13 +27,14 @@ The dataset is intentionally small and simple to visually interpret bias-varianc
 ---
 
 ## Concepts Covered
-
-| Polynomial Regression | Fit models of degree 0–10 |
-| Gradient Descent | Varying learning rates, convergence visualization |
-| Feature Engineering | Custom implementation of polynomial feature expansion |
-| Model Evaluation | RMSE on train/test sets |
-| Overfitting Analysis | RMSE vs. polynomial degree |
-| Visualization | Regression curves, error curves |
+| Concept | Description |
+|--------|-------------|
+| **Polynomial Regression** | Fit models of degree 0–10 |
+| **Gradient Descent** | Varying learning rates, convergence visualization |
+| **Feature Engineering** | Custom implementation of polynomial feature expansion |
+| **Model Evaluation** | RMSE on train/test sets |
+| **Overfitting Analysis** | RMSE vs. polynomial degree |
+| **Visualization** | Regression curves, error curves |
 
 ---
 
