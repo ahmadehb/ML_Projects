@@ -36,7 +36,8 @@ Each row in the dataset:
 
 ## Concepts Covered
 
-| Component | Description |
+| Concept | Description |
+|--------|-------------|
 | **Model Implementation** | PyTorch modules: `OneLayerNetwork`, `TwoLayerNetwork` |
 | **Loss Function** | Cross-entropy loss for multi-class classification |
 | **Optimization** | SGD and Adam |
